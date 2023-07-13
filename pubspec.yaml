@@ -1,7 +1,7 @@
 name: nearby_connections
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/epseelon/nearby_connections
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
@@ -10,12 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
+  plugin_platform_interface: ^2.1.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^2.0.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
